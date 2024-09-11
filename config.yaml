@@ -1,0 +1,7 @@
+sampling_rate: 10000
+frame_length: 0.03
+frame_step: 0.01
+duration: 10
+
+data_path: "AudioMNIST/data"
+output_directory: "data"
