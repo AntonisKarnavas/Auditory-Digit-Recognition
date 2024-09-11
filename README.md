@@ -1,4 +1,4 @@
-# Automatic Colorization of Eiffel Tower Images
+# Auditory Digit Recognition
 
 ## Overview
 
